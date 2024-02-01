@@ -1,0 +1,48 @@
+.btn1{
+    color: black;
+    height: 50px;
+    width: 200px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: blue;
+    cursor: pointer;
+    outline: none;
+    
+}
+.btn2{
+    color: black;
+    height: 50px;
+    width: 200px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: blue;
+    cursor: pointer;
+    outline: none;
+
+}
+.nbr1{
+    margin-left: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    color: black;
+    font-size: xx-large;
+
+}
+.ctr{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.shado-box{
+    border: 2px;
+    padding: 10px; 
+   
+    
+    
+}
+h1{
+margin-right: 200px;
+}
+
